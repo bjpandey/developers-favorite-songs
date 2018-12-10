@@ -24,12 +24,14 @@ List of favorite songs for developer in different situations :musical_note:
 
 ## A - C
 
-- [Another brick in the wall](https://www.youtube.com/watch?v=YR5ApYxkU-U) | pink floyd | When boss requests to do multiple things at a time 
+- [Another brick in the wall](https://www.youtube.com/watch?v=CBTOGVb_cQg) | Pink Floyd | When boss requests to do multiple things at a time. 
 
 ## D - F
 
 
 ## G - I
+
+- [I Want To Break Free](https://www.youtube.com/watch?v=f4Mc-NYPHaQ) | Queen | Developer after long vacation.
 
 
 ## J - L
