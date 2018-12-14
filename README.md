@@ -48,6 +48,8 @@ List of favorite songs for developer in different situations :musical_note:
 
 ## V - X
 
+- [We Will Rock You](https://www.youtube.com/watch?v=-tJYN-eG1zk) | Queen | Developer release new valuable feature.
+
 
 ## Y - \#
 
