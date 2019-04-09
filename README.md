@@ -29,6 +29,8 @@ List of favorite songs for developer in different situations :musical_note:
 - [Counting Star](https://www.youtube.com/watch?v=hT_nvWreIhg) | OneRepublic | When developers feels like other people like anyone else. 
 
 ## D - F
+- [Don't Stop Believin'](https://www.youtube.com/watch?v=1k8craCGpgs) | Journey | When developers start believing he/she can overcome any challenges in his field.
+- [Eye of the Tiger'](https://www.youtube.com/watch?v=2b2Mbl_QhGo) | Survivor | When developers feel like they can fulfill their basic needs.
 
 
 ## G - I
