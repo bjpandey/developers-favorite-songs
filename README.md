@@ -39,7 +39,7 @@ List of favorite songs for developer in different situations :musical_note:
 
 
 ## J - L
-
+- [Loose You To Love Me](https://www.youtube.com/watch?v=zlJDTxahav0) | Selena Gomez | Developer in Tech Stack situation.
 
 ## M - O
 
